@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "HideHUD",
+  "author": "Andrey_PZ",
+  "version": "1.0.0",
+  "description": "A mod that allows you to hide HUD in one touch.",
+  "gameVersion": "1.0",
+  "type": "Mod",
+  "url": "..."
+}
